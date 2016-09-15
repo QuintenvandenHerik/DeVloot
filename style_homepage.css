@@ -1,0 +1,155 @@
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+}
+
+body {
+    background-image: url("header.jpg"), url("bg.png");
+    background-repeat: no-repeat, repeat-x;
+    background-position: top, top;
+    padding-left: 50px;
+    font-family: Sans-Serif;
+}
+
+div.tekst {
+	width: 790px;
+	height: 400px;
+	text-align: left;
+	margin: auto;
+	margin-top: 0px;
+	margin-left: -25px;
+	background-color: white;
+	padding-left: 10px
+}
+
+div.hoofdkop_De_Vloot {
+	width: 800px;
+	text-align: left;
+	margin: auto;
+	padding-top: 10px;
+}
+
+div a {
+    text-decoration: none;
+    color: white;
+	font-size: 20px;
+    padding: 15px;
+    display:inline-block;
+    border-top: 0px solid black;
+	border-left: 0px solid black;
+	border-right: 0px solid black;
+	border-bottom: 0px solid black;
+	margin-top: 150px
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+}
+
+a:hover {
+  color: black ;
+  background-color: #def ;
+}
+
+div.img_vloot0 {
+	float: left;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+div.img_vloot1 {
+	float: left;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-top: 15px;
+}
+
+div.img_vloot2 {
+	float: right;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot3 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot3 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot4 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot5 {
+	float: right;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+div.img_vloot6 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot7 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot8 {
+	float: right;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 10px;
+}
+
+div.img_vloot9 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+div.img_vloot10 {
+	float: right;
+	padding-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot11 {
+	float: left;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+div.img_vloot12 {
+	float: right;
+	padding-right: 15px;
+	padding-top: 4px;
+	padding-bottom: 15px;
+}
